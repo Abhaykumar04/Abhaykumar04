@@ -133,7 +133,7 @@ src="https://img.shields.io/github/followers/Abhaykumar04?logo=github&style=for-
 <h2 align="center"> Machine Learning Apps 🔭 </h2>
 
 <div id="badges">
-  <a href="https://abhaykumar04-classificationapp-classificationapp-3f74pi.streamlit.app//">
+  <a href="https://abhaykumar04-classificationapp-classificationapp-mhs3w5.streamlit.app/">
     <img src="https://img.shields.io/badge/Streamlit-Classification%20App-yellowgreen" alt="Classification App"/>
   </a>
                                                                                           
