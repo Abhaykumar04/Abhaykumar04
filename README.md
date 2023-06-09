@@ -134,8 +134,15 @@ src="https://img.shields.io/github/followers/Abhaykumar04?logo=github&style=for-
 
 <div id="badges">
   <a href="https://abhaykumar04-classificationapp-classificationapp-mhs3w5.streamlit.app/">
-    <img src="https://img.shields.io/badge/Streamlit-Classification%20App-yellowgreen" alt="Classification App"/>
+    <img src="https://img.shields.io/badge/Streamlit-Classification%20App-green" alt="Classification App"/>
   </a>
+  <a href="https://breast-cancer-prediction-abhay.onrender.com/">
+  <img src="https://img.shields.io/badge/Render-Breast%20Cancer%20Prediction-blue" alt="Breast Cancer Prediction"/>
+</a>
+  <a href="https://weathernow-abhay.onrender.com/">
+  <img src="https://img.shields.io/badge/Render-WeatherNow⛅-blue" alt="WeatherNow"/>
+</a>
+                                                                                                           
                                                                                           
 ### Badges
 
