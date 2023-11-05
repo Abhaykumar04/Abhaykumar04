@@ -45,18 +45,18 @@ src="https://img.shields.io/github/followers/Abhaykumar04?logo=github&style=for-
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Apache Spark</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/375px-Apache_Spark_logo.svg.png"> 
+<span><b><center>Py Spark</center></b></span> 
+<img height=60px src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*nPcdyVwgcuEZiEZiRqApug.jpeg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/182px-Matlab_Logo.png"> 
+<span><b><center>SAS</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg"> 
 </td>
 </tr>
 
@@ -73,14 +73,14 @@ src="https://img.shields.io/github/followers/Abhaykumar04?logo=github&style=for-
 
 <td align="center" width="20%">
 <span><b><center>Tableau</center></b></span> 
-<img height=65px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHpzcG8pbvOQIEDb_5GaPH-oUYC2DU0OkxmHEds2bM&s"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>TensorFlow</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png"> 
+<img height=65px src="https://ww2.freelogovectors.net/wp-content/uploads/2018/07/tensorflow-logo.png?lossy=1&w=2560&ssl=1"> 
 </td>
 
 <td align="center" width="20%">
@@ -92,19 +92,19 @@ src="https://img.shields.io/github/followers/Abhaykumar04?logo=github&style=for-
 
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Scikit learn</center></b></span> 
-<img height=65px src="http://"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"> 
+<img height=65px src="https://en.wikipedia.org/wiki/Scikit-learn#/media/File:Scikit_learn_logo_small.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -125,8 +125,8 @@ src="https://img.shields.io/github/followers/Abhaykumar04?logo=github&style=for-
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Scala</center></b></span> 
-<img height=60px src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png"> 
+<span><b><center>Hive</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg"> 
 </td>
 </tr>
                                                                                                                       
