@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/Abhaykumar04?logo=github&style=for-
 ### About
 
 * 👀 I’m interested in **Data Science| Computer Vision | AI | ML | Deep Learning.**
-* 🌱 I’m currently pursuing :- **Bachelor's student in Data Science.**
+* 🌱 I’m currently pursuing :- **Bachelor's in Data Science.**
 * 💞️ I’m looking to collaborate on projects.
 * ✉️  You can contact me at **[abhay04kumar@gmail.com](mailto:abhay04kumar@gmail.com)**
  
