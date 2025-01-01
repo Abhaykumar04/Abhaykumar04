@@ -136,18 +136,27 @@ src="https://img.shields.io/github/followers/Abhaykumar04?logo=github&style=for-
                                                                                                                       
 </tbody>
 </table>
-<h2 align="center"> Machine Learning Apps 🔭 </h2>
+<h2 align="center">ML / AI Apps 🔭</h2>
 
-<div id="badges">
-  <a href="https://abhaykumar04-classificationapp-classificationapp-mhs3w5.streamlit.app/">
-    <img src="https://img.shields.io/badge/Streamlit-Classification%20App-green" alt="Classification App"/>
+<div id="badges" align="center">
+  <a href="https://abhaykumar04-classificationapp-classificationapp-mhs3w5.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-Classification%20App-green" alt="Classification App" style="margin: 5px;"/>
   </a>
-  <a href="https://breast-cancer-prediction-abhay.onrender.com/">
-  <img src="https://img.shields.io/badge/Render-Breast%20Cancer%20Prediction-blue" alt="Breast Cancer Prediction"/>
-</a>
-  <a href="https://weathernow-abhay.onrender.com/">
-  <img src="https://img.shields.io/badge/Render-WeatherNow⛅-blue" alt="WeatherNow"/>
-</a>
+  <a href="https://breast-cancer-prediction-abhay.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Render-Breast%20Cancer%20Prediction-blue" alt="Breast Cancer Prediction" style="margin: 5px;"/>
+  </a>
+  <a href="https://weathernow-abhay.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Render-WeatherNow⛅-blue" alt="WeatherNow" style="margin: 5px;"/>
+  </a>
+  <a href="https://huggingface.co/spaces/Abhaykumar04/Voice_Generated_Visions/" target="_blank">
+    <img src="https://img.shields.io/badge/Huggingface-Voice%20Generated%20Visions-yellow" alt="Voice Generated Visions" style="margin: 5px;"/>
+  </a>
+  <a href="https://medium.com/google-cloud/commai-a-revolutionary-voice-assistant-for-enhanced-verbal-communication-8fdfd9c97cd4/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cloud-CommAI-red" alt="CommAI" style="margin: 5px;"/>
+  </a>
+</div>
+
+                                                                                                           
                                                                                                            
                                                                                           
 ### Badges
