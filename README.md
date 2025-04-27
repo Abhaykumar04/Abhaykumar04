@@ -220,5 +220,3 @@ src="https://img.shields.io/github/followers/Abhaykumar04?logo=github&style=for-
 <a href="http://www.github.com/Abhaykumar04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhaykumar04&show_icons=true&bg_color=00000000)" /></a>
 </div>
 
-
-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png"> </td> <td align="center" width="180px" height="150px"> <span><b>Git</b></span><br> <img height=90px src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"> </td> </tr> </tbody> </table>
