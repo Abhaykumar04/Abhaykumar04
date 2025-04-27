@@ -36,8 +36,8 @@ src="https://img.shields.io/github/followers/Abhaykumar04?logo=github&style=for-
 
 ### About
 
-* 👀 I’m interested in **Data Science| Computer Vision | AI | ML | Deep Learning.**
-* 🌱 I’m currently pursuing :- **Bachelor's in Data Science.**
+* 👀 I’m interested in **AI | Data Science | Machine Learning | Deep Learning | Cybersecurity | Computer Vision**
+* 💼 I’m currently working :- **Digital Trust Team at KPMG — contributing to AI, Data, and Cybersecurity initiatives.**
 * 💞️ I’m looking to collaborate on projects.
 * ✉️  You can contact me at **[abhay04kumar@gmail.com](mailto:abhay04kumar@gmail.com)**
  
